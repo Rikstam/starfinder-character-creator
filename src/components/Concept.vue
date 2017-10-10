@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <h1>Step 1: Create a character concept</h1>
+    <p>What sort of science fantasy hero do you want to play? A good way to start character creation is to decide the general thrust of your character’s personality, sketching out a few details about her past and thinking about how and why she adventures. During this step, you’ll likely want to peruse the available races, themes, and classes, so that you have an idea of the options available. The sidebar briefly introduces these. Race refers to your species—from bug-like shirrens and reptilian vesk to humans and elves. Themes represent an element of your background, whether it’s from your upbringing, training, or destiny; it can be related to your class but doesn’t need to be. Classes represent the primary Focus of your character’s abilities in battle and while adventuring—a technomancer manipulates technology and casts spells, an envoy issues commands and inspires her allies to feats of heroism, and so on.
+    </p>
+    <p>
+      Once you’ve considered your options, come up with a brief description of your character, Focusing on what sorts of things you want her to be good at (shooting guns, flying starships, and so on). Then consider how best you could model that using this site’s rules components. Do you want to play a hulking lizard-creature with an enormous laser rifle? Then a vesk soldier with the mercenary theme is a perfect choice. If a scrappy bipedal rat who likes to burgle is more your style, a ysoki operative with the outlaw theme could be the way to go. If you’re feeling lost for ideas, try choosing a piece of art from somewhere in the book and creating a character who matches it.</p>
+  </div>
+</template>
